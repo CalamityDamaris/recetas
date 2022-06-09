@@ -1,0 +1,27 @@
+img {
+  width: 350px;
+}
+#titulo {
+  font-family: fantasy;
+  text-decoration: underline;
+  font-size: 100px;
+  letter-spacing: 5px;
+}
+.encabezado {
+  font-style: oblique;
+  text-decoration: underline;
+  font-size: 50px;
+}
+p {
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: 600;
+}
+body {
+  background-image: url(../estilosimg/fondoflor.webp);
+}
+ul {
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: 600;
+}
